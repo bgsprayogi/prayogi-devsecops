@@ -1,3 +1,3 @@
 # prayogi-devsecops
 
-Repository ini berisi pengumoulan laporan dan tugas matakulaih devsecops
+Repository ini berisi pengumpulan laporan dan tugas matakulaih devsecops
