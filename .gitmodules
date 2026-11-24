@@ -1,3 +1,6 @@
 [submodule "AxonApp_backend"]
 	path = AxonApp_backend
 	url = https://github.com/Abhipraya79/AxonApp_backend.git
+[submodule "AxonApp_frontend"]
+	path = AxonApp_frontend
+	url = https://github.com/Abhipraya79/AxonApp.git
